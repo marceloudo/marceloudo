@@ -10,7 +10,7 @@
 - 📫 How to reach me **marceloudo@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/marceloudo](https://www.linkedin.com/in/marceloudo)
 
-<h3 align="left">I've been updating my repositories below, take a look at them and let's grab a coffee!</h3>
+<h3 align="left">I've been updating my repositories below, take a look at them and let's grab a cup of coffee!</h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
