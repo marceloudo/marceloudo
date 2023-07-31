@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science state of the art and AI Techniques.**
 
-- 👯 I’m looking to collaborate on **Process improvement purposes.s.**
+- 👯 I’m looking to collaborate on **Process improvement projects.**
 
 - 🤝 I’ve been currently updating my Knowledge Base. [Data Science and Other Methods](https://github.com/marceloudo)
 
