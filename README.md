@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marcelo Udo</h1>
 <h3 align="center">A passionate process improvement professional.</h3>
 
-- 🔭 My current job is **Coordinator - IT Systems & Data Science.**
-- 🌱 I’m currently learning **Data Science state of the art and AI Techniques.**
+- 🔭 My current job: **Coordinator - IT Systems & Data Science.**
+- 🌱 I’m currently applying **Data Science state of the art and AI Techniques.**
 - 👯 I’m looking to collaborate on **Process improvement projects.**
 - 🤝 I’ve been currently updating my Knowledge Base. [Data Science and Other Methods](https://github.com/marceloudo)
 - 📝 I intend to update my Blog about Process Improvement as soon as possible with some details that happen in companies.. [https://marceloudo.wordpress.com/](https://marceloudo.wordpress.com/)
 - 💬 Ask me about **Business Process Management and all ontology involved.**
-- 📫 How to reach me **marceloudo@gmail.com**
+- 📫 How to reach me: **marceloudo@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/marceloudo](https://www.linkedin.com/in/marceloudo)
 
 <h3 align="left">I've been updating my repositories below, take a look at them and let's grab a cup of coffee!</h3>
