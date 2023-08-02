@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcelo Udo</h1>
+<h1 align="center">Hi 👋, I'm ✠ Marcelo Udo ✠</h1>
 <h3 align="center">A passionate process improvement professional.</h3>
 
 - 🔭 My current job: **Coordinator - IT Systems & Data Science.**
