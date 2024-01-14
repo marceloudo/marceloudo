@@ -5,7 +5,7 @@
 - 🌱 I’m currently applying **Data Science state of the art and AI Techniques.**
 - 👯 I’m looking to collaborate on **Process improvement projects.**
 - 🤝 I’ve been currently updating my Knowledge Base. [Data Science and Other Methods](https://github.com/marceloudo)
-- 📝 I intend to update my Blog about Process Improvement as soon as possible with some details that happen in companies.. [https://marceloudo.wordpress.com/](https://marceloudo.wordpress.com/)
+- 📝 My stories about Data Science as an IT Manager [Medium](https://medium.com/me/stories/public))
 - 💬 Ask me about **Business Process Management and all ontology involved.**
 - 📫 How to reach me: **marceloudo@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/marceloudo](https://www.linkedin.com/in/marceloudo)
